@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Pembroke Pines Tour Guide</string>
+
+    <!--Restaurants-->
+    <string name="los">Los Tacos</string>
+    <string name="los_number">(954) 447–6262</string>
+    <string name="los_address">Silver Lakes Campus, 17722 Pines Blvd, Pembroke Pines, FL 33029</string>
+    <string name="los_dollar">$</string>
+    <string name="los_type">Mexican Cuisine</string>
+
+    <string name="brimstone">Brimstone Woodfire Grill</string>
+    <string name="brim_number">(954) 430–2333</string>
+    <string name="brim_address">Shops At Pembroke Gardens, 14575 SW 5th St, Pembroke Pines, FL 33027</string>
+    <string name="brim_dollar">$$$</string>
+    <string name="brim_type">American</string>
+
+
+    <string name="mazza">Mazza Mediterranean Cuisine</string>
+    <string name="mazza_num">(954) 436–9997</string>
+    <string name="mazza_address">Paraiso Parc, 15749 Pines Blvd, Pembroke Pines, FL 33028</string>
+    <string name="mazza_dollar">$$</string>
+    <string name="mazza_type">Greek-Lebanese</string>
+
+
+    <string name="the_pub">The Pub Pembroke Pines</string>
+    <string name="pub_num">(954) 430–4230</string>
+    <string name="pub_address">Shops At Pembroke Gardens, 237 SW 145th Terrace, Pembroke Pines, FL 33027</string>
+    <string name="pub_dollar">$$</string>
+    <string name="pub_type">British inspired tavern, Grill</string>
+
+
+    <string name="shinju">Shinju Japanese Buffet</string>
+    <string name="shin_num">(954) 538–9696</string>
+    <string name="shin_address">Cobblestone Plaza, 14838 Pines Blvd, Pembroke Pines, FL 33027</string>
+    <string name="shin_dollar">$$</string>
+    <string name="shin_type">Japanese Buffet</string>
+
+
+    <string name="ruchis">Ruchi Idian Restaurant</string>
+    <string name="ruchi_num">(954) 505–7455</string>
+    <string name="ruchi_address">7085 Pines Blvd, Pembroke Pines, FL 33027</string>
+    <string name="ruchi_dollar">$</string>
+    <string name="ruchi_type">Indian Cuisine</string>
+
+
+    <string name="village_tavern">Village Tavern</string>
+    <string name="village_num">(954) 874–1001</string>
+    <string name="village_address">Shops At Pembroke Gardens, 14555 SW 2nd St, Pembroke Pines, FL 33027</string>
+    <string name="village_dollar">$$</string>
+    <string name="village_type">American</string>
+
+
+    <string name="flanigas">Flanigans Seafood and Bar</string>
+    <string name="flan_num">(954) 499–8770</string>
+    <string name="flan_address">17185 Pines Blvd, Pembroke Pines, FL 33028</string>
+    <string name="flan_dollar">$$</string>
+    <string name="flan_type">American Grill</string>
+
+
+    <string name="mikan">Mikan Japanese Restaurant</string>
+    <string name="mikan_num">(954) 432–7775</string>
+    <string name="mikan_address">12502 Pines Blvd, Pembroke Pines, FL 33027"));</string>
+    <string name="mikan_dollar">$$</string>
+    <string name="mikan_type">Japanese</string>
+
+
+    <string name="sosta">SOSTA CAFFE</string>
+    <string name="sosta_num">(954) 613–4021</string>
+    <string name="sosta_address">10800 Pines Blvd, Pembroke Pines, FL 33026</string>
+    <string name="sosta_dollar">$$</string>
+    <string name="sosta_type">Italian</string>
+
+
+    <!--Parks-->
+    <string name="cb_smith">C.B. Smith Park</string>
+    <string name="cb_num">(954) 357–5170</string>
+    <string name="cb_address">900 N Flamingo Rd, Pembroke Pines, FL 33028</string>
+
+    <string name="pembroke_shores">Pembroke Shores Park</string>
+    <string name="pemshore_num">(954) 435–6520</string>
+    <string name="pemshore_address">900 N Flamingo Rd, Pembroke Pines, FL 33028</string>
+
+    <string name="silverlakes">Silver Lakes Park</string>
+    <string name="silverlakes_num">(954) 435–6520</string>
+    <string name="silverlakes_address">17601 SW 2nd St, Pembroke Pines, FL 33029</string>
+
+    <string name="flamingo_park">Flamingo Park</string>
+    <string name="flampark_num">(954) 435–6520</string>
+    <string name="flampark_address">1900 NW 122nd Terrace, Pembroke Pines, FL 33026</string>
+
+    <string name="towngate_park">Towngate Park and Pool</string>
+    <string name="towngate_num">(954) 450–6895</string>
+    <string name="towngate_address">901 NW 155th Ave, Pembroke Pines, FL 33028</string>
+
+
+    <!--Malls-->
+    <string name="pembroke_mall">Pembroke Lakes Mall</string>
+    <string name="pemmall_num">(954) 436–3311</string>
+    <string name="pemmall_address">11401 Pines Blvd, Pembroke Pines, FL 33026</string>
+
+    <string name="pembroke_garden">Shops at Pembroke Gardens</string>
+    <string name="pemgarden_num">(954) 450–1580</string>
+    <string name="pemgarden_address">527 SW 145th Terrace, Pembroke Pines, FL 33027</string>
+
+
+    <!--Contacts-->
+    <string name="pemcityhall_address">10100 Pines Blvd, Pembroke Pines, FL 33026</string>
+
+    <string name="cityhall_info">City Hall info Desk</string>
+    <string name="hall_num">(954) 450–1060</string>
+
+
+    <string name="city_attorney">City Attorneys Desk</string>
+    <string name="attorney_num">(954) 435–6591</string>
+
+
+    <string name="city_manager">City Manager</string>
+    <string name="manager_num">(954) 435–6502</string>
+
+
+    <string name="fire_department">Fire Department</string>
+    <string name="fire_num">(954) 499–9520</string>
+
+
+    <string name="police_department">Police Department</string>
+    <string name="popo_num">(954) 431–2200</string>
+
+
+    <string name="public_services">Public Services</string>
+    <string name="publicservice_num">(954) 392–2061</string>
+
+
+    <string name="tech_serv">Technology Services</string>
+    <string name="tech_num">(954) 392–2061</string>
+
+
+    <string name="human_resource">Human Resource</string>
+    <string name="hr_num">(954) 392–2090</string>
+
+    <string name="rAndA">Recreation and Arts</string>
+    <string name="rAndR_num">(954) 392–2130</string>
+
+
+    <string name="comm_serv">Community Services</string>
+    <string name="community_num">(954) 450–6888</string>
+
+    <!--putExtras-->
+
+    <string name="vCheck">vCheck</string>
+    <string name="position">position</string>
+    <string name="image">image</string>
+    <string name="title">title</string>
+    <string name="foodType">foodType</string>
+    <string name="dollarSign">dollarSign</string>
+    <string name="phoneNumber">phoneNumber</string>
+    <string name="address">address</string>
+    <string name="address_label">Address:</string>
+    <string name="phonenum_label">Phone Number:</string>
+    <string name="foodtype_label">Food Type:</string>
+    <string name="cost_label">Cost:</string>
+
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/listItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/detail_image"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:gravity="center"
+        tool:src="@mipmap/ic_launcher"/>
+    <TextView
+        android:id="@+id/detail_title"
+        style="@style/detailTextView"
+        android:padding="16dp"
+        android:gravity="center"
+        android:textSize="25sp"
+        tool:text="Brim Stone Grill"/>
+
+    <TextView
+        android:id="@+id/label_one"
+        style="@style/detailTextViewLabel"
+        tool:text="Food type:"/>
+    <TextView
+        android:id="@+id/detail_descOne"
+        style="@style/detailTextView"
+        tool:text="American"/>
+
+    <TextView
+        android:id="@+id/label_two"
+        style="@style/detailTextViewLabel"
+        tool:text="Cost:"/>
+    <TextView
+        android:id="@+id/detail_descTwo"
+        style="@style/detailTextView"
+        tool:text="$$"/>
+
+    <TextView
+        android:id="@+id/label_three"
+        style="@style/detailTextViewLabel"
+        tool:text="Phone Number:"/>
+    <TextView
+        android:id="@+id/detail_descThree"
+        style="@style/detailTextView"
+        tool:text="title"/>
+
+    <TextView
+        android:id="@+id/label_four"
+        style="@style/detailTextViewLabel"
+        tool:text="Address:"/>
+    <TextView
+        android:id="@+id/detail_descFour"
+        style="@style/detailTextView"
+        tool:text="title"/>
+
+</LinearLayout>
